@@ -1,6 +1,6 @@
 <h5 align="center"> Let's talk about Data Analyst </h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JahidHossan&label=Profile%20views&color=0e75b6&style=flat" alt="JahidHossan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JaHiD-HoSsAn-JHN&label=Profile%20views&color=0e75b6&style=flat" alt="JahidHossan" /> </p>
 
 - 🌱 Digging Into **Data Scientist**
 - 👨🏻‍💻 Internship at **aiQuest Intelligence **
