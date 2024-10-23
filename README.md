@@ -4,7 +4,7 @@
 
 - 🌱 Digging Into **Data Scientist**
 - 👨🏻‍💻 Internship at **aiQuest Intelligence **
-- 💬 Ask me anything about **Python, Data Science & AI**
+- 💬 Ask me anything about **Python, Data Science, Data Analyst & ML**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jahid-hossan-342196258/)
 
 <h3 align="left">Connect with me:</h3>
